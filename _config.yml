@@ -1,5 +1,5 @@
 name: bbarekas on the net
 markdown: rdiscount
 permalink: '/blog/:year/:title/'
-lsi: true
+lsi: false
 pygments: true
