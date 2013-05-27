@@ -18,13 +18,22 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/styles.css">
 
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+        <script>
+            $(function runIt(){
+                $(".first").delay(4000).fadeTo(3000, 0.25);
+                $(".first").fadeTo(2000, 1, runIt);
+            });
+        </script>
+
     </head>
     <body>
 
     <div class="wrapper">
         <header>
             <a href="/">
-            <h1> <span class="first">b<span class="last">barekas</span></span></h1>
+            <h1> <span class="first">b</span><span class="last">barekas</span></h1>
             </a>
 
             <h2>
@@ -63,6 +72,18 @@
             <!--
             <p class="view"><a href="https://github.com/bbarekas">View My GitHub Profile</a></p>
             -->
+<!--
+            <div id="sometext">
+                <b>This text will Fade In and Out.</b>
+            </div>
+            <script>
+                $(function runIt(){
+                    $("#sometext").delay(1000).fadeTo(2000, 0.1);
+                    $("#sometext").fadeTo(2000, 1, runIt);
+                });
+            </script>
+-->
+
 
         </header>
         <section>
