@@ -7,6 +7,7 @@ categories: jekyll
 
 This is a TEST post!
 
+
 I want to post here data from a bike ride a recently done. I have uploaded my data on
 <a href='http://www.mapmyrun.com/'>mapmyrun</a>. Here I just embed an iframe view with my ride data.
 
