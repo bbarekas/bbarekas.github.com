@@ -3,6 +3,10 @@ bbarekas.github.com
 
 bbarekas.github.com contents
 
+*   A mini blog.
+*   Information about the author.
+*   Link to author's social profiles.
+
 
 License
 =======
