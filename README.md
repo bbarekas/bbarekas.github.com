@@ -3,10 +3,11 @@ bbarekas.github.com
 
 bbarekas.github.com contents
 
-*   A mini blog.
+*   A mini blog to share whatever worth.
 *   Information about the author.
 *   Link to author's social profiles.
 
+You can browse it via this URL: [http://barekas.net/](http://barekas.net/ "bbarekas on the net")
 
 License
 =======
