@@ -33,13 +33,13 @@
             });
         </script>
 
-
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
         <script>
             $(function runIt(){
-                $(".first").delay(4000).fadeTo(3000, 0.25);
-                $(".first").fadeTo(2000, 1, runIt);
+                rr = (Math.floor(Math.random() * 5) + 1)*1000;
+                $(".first").delay(rr).fadeTo(rr*0.75, 0.25);
+                $(".first").fadeTo(rr*1.2, 1, runIt);
             });
         </script>
 
@@ -77,34 +77,10 @@
 
             <br>
             <br>
-<!--
-
-
-            <h3>Follow Me On</h3>
-            <p class="view"><a href="https://github.com/bbarekas" target="tab">GitHub<small>If coding is your thing</small></a></li>
-            <p class="view"><a href="https://twitter.com/bbarekas" target="tab">Twitter<small>If you tweet</small></a></li>
-            <p class="view"><a href="http://bbarekas.tumblr.com/" target="tab">Tumblr<small>If you're there</small></a></li>
-            <p class="view"><a href="http://instagram.com/bbarekas" target="tab">Instagram<small>If you like photos</small></a></li>
--->
-            <!--
-            <p class="view"><a href="http://flickr.com/photos/bbarekas" target="tab">Flickr<small>If you like photos</small></a></li>
-            -->
 
             <!--
             <p class="view"><a href="https://github.com/bbarekas">View My GitHub Profile</a></p>
             -->
-<!--
-            <div id="sometext">
-                <b>This text will Fade In and Out.</b>
-            </div>
-            <script>
-                $(function runIt(){
-                    $("#sometext").delay(1000).fadeTo(2000, 0.1);
-                    $("#sometext").fadeTo(2000, 1, runIt);
-                });
-            </script>
--->
-
 
         </header>
         <section>
