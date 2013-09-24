@@ -150,8 +150,8 @@ img.center {
 #map_canvas {
     margin: 0 auto;
     padding: 0;
-    height: 400px;
-    width: 500px;
+    height: 350px;
+    width: 100%;
     background-color: #CCC;
 }
 #map_canvas img { max-width: none; }
@@ -226,7 +226,6 @@ section {
   width:550px;
   float:right;
   padding-bottom:50px;
-  /*background: #876;*/
 }
 
 small {
