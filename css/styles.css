@@ -147,6 +147,16 @@ img.center {
     margin-right: auto;
 }
 
+#map_canvas {
+    margin: 0 auto;
+    padding: 0;
+    height: 400px;
+    width: 500px;
+    background-color: #CCC;
+}
+#map_canvas img { max-width: none; }
+
+
 header {
   width:300px;
   float:left;
