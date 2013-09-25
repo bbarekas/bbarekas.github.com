@@ -289,13 +289,13 @@ nav li a.active:hover {
   }
 
   nav ul {
-    width: 300px;
+    width: 310px;
     margin: 0 auto;
   }
 
 
     nav li {
-        width: 50px;
+        width: 100px;
         float:left;
     }
 
@@ -316,6 +316,10 @@ nav li a.active:hover {
     position:static;
   }
 
+    nav ul {
+        width: 240px;
+        margin: 0 auto;
+    }
 
   header p.view {
       margin-bottom: 5px;
@@ -339,6 +343,16 @@ nav li a.active:hover {
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;
+  }
+
+  nav ul {
+        width: 150px;
+        /*margin: 0 auto;*/
+  }
+
+  nav li {
+        width: 50px;
+        float:left;
   }
 
   header {
