@@ -261,7 +261,7 @@ nav li a.active:hover {
   }
   
   header, section, footer {
-    /*float:none;*/
+    float:left;
     position:static;
     width:auto;
   }
@@ -283,7 +283,7 @@ nav li a.active:hover {
   }
   
   header ul {
-    position:absolute;
+    position:static;
     right:40px;
     top:120px;
   }
@@ -374,6 +374,7 @@ nav li a.active:hover {
 @media print, screen and (max-width: 320px) {
     header {
         float: left;
+        padding-bottom: 0px;
     }
 
     header ul {
@@ -389,6 +390,7 @@ nav li a.active:hover {
     nav li {
         width: 70;
         float:left;
+        line-height: 1;
     }
 }
 @media print {
