@@ -295,7 +295,7 @@ nav li a.active:hover {
 
 
     nav li {
-        width: 75px;
+        width: 50px;
         float:left;
     }
 
@@ -316,9 +316,6 @@ nav li a.active:hover {
     position:static;
   }
 
-  header ul {
-    width: 300px;
-  }
 
   header p.view {
       margin-bottom: 5px;
@@ -353,8 +350,11 @@ nav li a.active:hover {
   }
 
   header ul {
-    /*display:none;*/
+        position:absolute;
+        right:10px;
+        top:40px;
   }
+
 }
 
 @media print {
