@@ -377,7 +377,7 @@ nav li a.active:hover {
     }
 
     header ul {
-        position:absolute;
+        position:static;
         left:20px;
         top:70px;
     }
