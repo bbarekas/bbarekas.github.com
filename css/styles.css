@@ -371,6 +371,23 @@ nav li a.active:hover {
 
 }
 
+@media print, screen and (max-width: 320px) {
+
+    header ul {
+        position:absolute;
+        left:20px;
+        top:70px;
+    }
+    nav ul {
+        width: auto;
+        margin: 0 auto;
+    }
+
+    nav li {
+        width: auto;
+        float:left;
+    }
+}
 @media print {
   body {
     padding:0.4in;
