@@ -343,9 +343,17 @@ nav li a.active:hover {
   body {
     padding:15px;
   }
-  
+
+  header {
+        padding:0;
+        padding-bottom: 10px;
+  }
+  h1 .line {
+      display:none;
+  }
+
   header ul {
-    display:none;
+    /*display:none;*/
   }
 }
 
