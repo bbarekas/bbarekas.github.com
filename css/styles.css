@@ -261,7 +261,7 @@ nav li a.active:hover {
   }
   
   header, section, footer {
-    float:none;
+    /*float:none;*/
     position:static;
     width:auto;
   }
