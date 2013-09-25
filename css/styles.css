@@ -346,12 +346,12 @@ nav li a.active:hover {
   }
 
   nav ul {
-        width: 150px;
+        width: 220px;
         /*margin: 0 auto;*/
   }
 
   nav li {
-        width: 50px;
+        width: 70px;
         float:left;
   }
 
@@ -365,7 +365,7 @@ nav li a.active:hover {
 
   header ul {
         position:absolute;
-        right:10px;
+        right:30px;
         top:40px;
   }
 
