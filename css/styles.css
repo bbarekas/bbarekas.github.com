@@ -283,9 +283,14 @@ form {
     font-size: 14px;
 }
 
+.form-all label {
+    font-size: 16px;
+    font-weight: bold;
+    color: #666;
+}
 .form-all button,
 .form-all input[type=submit] {
-    line-height: 1.428571429;
+    line-height: 1.5;
     text-align: center;
     vertical-align: middle;
     cursor: pointer;
@@ -293,6 +298,8 @@ form {
     white-space: nowrap;
     color: #777;
     background: #eee;
+    font-family: 'Lato', sans-serif;
+
 }
 
 .form-all button:hover,
@@ -347,10 +354,15 @@ form {
     clear: both;
 }
 
-.form-all li#id_18,
+.form-all li#id_19,
 .form-all li#id_16 {
     float: left;
     width: 50%;
+}
+
+.form-all li#id_17 {
+    float: left;
+    width: 100%;
 }
 
 .form-required {
@@ -358,33 +370,13 @@ form {
     margin: 0 3px;
 }
 
-.form-captcha {
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
-    border: 1px solid #ccc;
-    padding: 6px;
-    display: inline-block;
-    width: 152px;
-    background: #f5f5f5;
-}
-
-.form-captcha img.form-captcha-image {
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
-    border: 1px solid #ccc;
-}
-
-.form-captcha input {
-    display: inline-block;
-    width: 120px;
-}
 
 .form-all li#id_14 {
-    border-top: 1px solid #eee;
+    /*border-top: 1px solid #eee;*/
     margin-top: 10px;
     padding-top: 10px;
+    width: 100%;
+    float: left;
 }
 
 .form-buttons-wrapper {
@@ -513,7 +505,7 @@ form {
         top: 35px;
     }
 
-    .form-all li#id_18,
+    .form-all li#id_19,
     .form-all li#id_16 {
         float: left;
         width: 100%;
