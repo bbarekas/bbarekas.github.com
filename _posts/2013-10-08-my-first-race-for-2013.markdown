@@ -5,8 +5,8 @@ date:   2013-10-08 01:30:11
 categories: running, sport, patras
 ---
 
-Last Sunday I had my first road running race for 2013. I had planned to do
-so, during spring when I have heard about
+Last Sunday I had my first running race for 2013. I had planned to run
+this race during spring when I have heard about
 <a href='http://www.run-greece.gr/'> Run-Greece </a>, a race series taking
 place in all major cities of Greece.
 This was a good opportunity for me to start training again after a long break
