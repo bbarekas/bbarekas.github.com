@@ -38,9 +38,9 @@ since I was feeling quite good, this brought me to the last kilometer and I
 decided to give my best. The result as measured by the chip is reported in the
 <a href='http://www.run-greece.gr/index.php?option=com_joodb&view=article
 &joobase=3&id=84767%3Amparekas&Itemid=136&lang=en'>
-official results page</a> as 55:55. Here is also the route of my race as I
-tracked it
-with my phone.
+official results page</a> as 55:55.
+
+Here is the route of the 10K race as I tracked it with my phone.
 
 <iframe id="mapmyfitness_route"
 src="http://snippets.mapmycdn.com/routes/view/embedded/304106673?width=600&height=500&elevation=true&info=true&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=metric&map_mode=HYBRID&last_updated=2013-10-06T23:47:00+03:00"
@@ -55,5 +55,8 @@ will perform much better in the upcoming
 <a href='http://www.athensclassicmarathon.org/index.php?option=com_content&
 view=article&id=124&Itemid=152&lang=en'>2013 ACM 10K race on 10 November
 2013</a>.
+
+<img src="/images/IMG_9069.JPG" alt="bbarekas" class="center"/>
+
 
 Time is running out fast ...
