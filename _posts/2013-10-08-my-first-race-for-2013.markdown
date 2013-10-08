@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "My first race (as a dad) for 2013"
-description: My experience after finishing Run-Greece Patras 10K race, the first race I ran after become a dad.
+description: My experiences before and after finishing Run-Greece Patras 10K race, the first race I ran after become a dad.
 date:   2013-10-08 01:30:11
-image: IMG_9069.JPG
+image:  IMG_9069.JPG
 category: Running
 tags: [10km, Running, Training, Patras]
 ---
