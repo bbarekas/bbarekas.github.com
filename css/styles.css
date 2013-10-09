@@ -254,7 +254,7 @@ section {
     float: right;
     /*background: aqua;*/
     padding: 10px;
-    padding-top: 30px;
+    padding-top: 10px;
     min-height: 310px;
     border-bottom: 1px dotted #aaaaaa;
 }
@@ -582,11 +582,11 @@ form {
     .date {
         display: none;
     }
+
     .date_small {
         display: block;
     }
 
-}
 }
 
 @media print, screen and (max-width: 320px) {
