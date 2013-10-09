@@ -43,7 +43,7 @@ speedup since I was feeling quite good, this brought me to the last kilometer
 <a href='http://www.run-greece.gr/index.php?option=com_joodb&view=article
 &joobase=3&id=84767%3Amparekas&Itemid=136&lang=en'>
 official results page</a> as 55:55. Given the overhead in the distance this
-is about a 5:30/km pace, I reached my target.
+is about a 5:30/km pace, I have reached my target.
 
 Here is the route of the 10K race as I tracked it with my phone.
 
