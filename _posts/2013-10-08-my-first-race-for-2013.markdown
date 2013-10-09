@@ -36,12 +36,14 @@ was almost full of people most of them waiting to start the 10km race.
 
 I started running quite fast, but soon I stabilized to a ~5:30/km pace,
 I kept it up to the 4th km. Then I felt that I had to slow down a bit. A lot
-of people pass by me until the 7th km. For the next 2 km I tried to speedup
-since I was feeling quite good, this brought me to the last kilometer and I
-decided to give my best. The result as measured by the chip is reported in the
+of people pass by me until the 7th km. For the next two kilometers I tried to
+speedup since I was feeling quite good, this brought me to the last kilometer
+ and I decided to give my best. The result as measured by the chip is
+ reported in the
 <a href='http://www.run-greece.gr/index.php?option=com_joodb&view=article
 &joobase=3&id=84767%3Amparekas&Itemid=136&lang=en'>
-official results page</a> as 55:55.
+official results page</a> as 55:55. Given the overhead in the distance this
+is about a 5:30/km pace, I reached my target.
 
 Here is the route of the 10K race as I tracked it with my phone.
 
