@@ -294,14 +294,14 @@ em.titlefull {
 
 em.company {
     font-weight:normal;
-    color:#777777;
+    color:#444;
     font-size:14px;
     width:400px;
 }
 
 em.companyfull {
     font-weight:normal;
-    color:#777777;
+    color:#444;
     font-size:14px;
 }
 
@@ -440,7 +440,7 @@ ul.works li img:hover {
 img.company {
     margin:0;
     padding:0;
-    border:solid 1px #EFEFEF;
+    /*border:solid 1px #EFEFEF;*/
     height:28px;
     float:none;
 }

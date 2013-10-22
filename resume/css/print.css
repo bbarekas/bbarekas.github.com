@@ -4,3 +4,9 @@
     width:780px;
     margin:0 auto;
 }
+
+img.portrait {
+    border: none;
+    box-shadow: none;
+    -moz-box-shadow: none;
+}
