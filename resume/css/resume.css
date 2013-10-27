@@ -34,7 +34,7 @@ body {
 .section {
    height: auto;
    overflow: hidden;
-   padding-bottom:20px;
+   padding-bottom: 15px;
    clear: both;
 }
 
@@ -44,16 +44,16 @@ body {
     text-align: right;
     color: #1b4491;
     margin-right: 640px;
-    height: 30px;
-    line-height: 30px;
+    height: 26px;
+    line-height: 26px;
 }
 
 .section_title_full {
     clear: both;
     font-size: 22px;
     color: #1b4491;
-    height: 30px;
-    line-height: 30px;
+    height: 26px;
+    line-height: 26px;
     float: left;
     margin-left: 30px;
 }
@@ -154,6 +154,11 @@ ul.info li {
 	margin:0;
 	padding:0;
 	float:left;
+}
+
+ul.no-bullet {
+    list-style-type: none;
+    margin-left: -15px;
 }
 
 /* SELF INFORMATION */
