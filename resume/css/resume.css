@@ -59,7 +59,7 @@ body {
 }
 
 .position {
-    margin-top: 5px;
+    /*margin-top: 5px;*/
     margin-bottom: 5px;
     width: 100%;
     float: left;
@@ -114,7 +114,7 @@ body {
 }
 
 .position_header {
-    margin-bottom: 5px;
+    /*margin-bottom: 5px;*/
     margin-left: -5px;
 }
 
