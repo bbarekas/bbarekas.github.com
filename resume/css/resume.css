@@ -38,6 +38,10 @@ body {
    clear: both;
 }
 
+.section.last_one {
+    padding-bottom: 0px;
+}
+
 .section_title {
     clear: both;
     font-size: 22px;
