@@ -10,9 +10,6 @@ category: Running
 tags: [10km, Running, ACM]
 ---
 
-<em>WORK UNDER PROGRESS</em>
-
-
 <p class="quote">
 "... it 's a point of pride that no matter how hard things might get,
 I never walked."
