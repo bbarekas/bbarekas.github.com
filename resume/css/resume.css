@@ -249,4 +249,12 @@ img.portrait {
         border: none;
         box-shadow: none;
     }
+
+    .company_logo {
+        display: none;
+    }
+
+    .right {
+        background: none;
+    }
 }
