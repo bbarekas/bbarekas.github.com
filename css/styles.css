@@ -314,9 +314,9 @@ nav li {
 }
 
 nav li a {
-    font-size: 18px;
+    font-size: 22px;
     font-weight: bold;
-    color: #555;
+    color: #777;
     display: block;
     text-align: center;
     line-height: 24px;
@@ -333,9 +333,9 @@ nav li a:active {
 nav li a:active,
 nav li a.active,
 nav li a.active:hover {
-    font-weight: bolder;
+    font-weight: bold;
     color: #333;
-    text-shadow: 1px 1px #CCC;
+    text-shadow: 1px 1px #777;
 }
 
 a.social {
