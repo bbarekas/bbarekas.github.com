@@ -7,7 +7,7 @@ bbarekas.github.com contents
 *   Information about the author.
 *   Link to author's social profiles.
 
-You can browse it via this URL: [http://barekas.net/](http://barekas.net/ "bbarekas on the net")
+You can browse it via this URL: [https://barekas.net/](https://barekas.net/ "bbarekas on the net")
 
 License
 =======

@@ -3,7 +3,7 @@ markdown: rdiscount
 permalink: '/blog/:year/:title/'
 lsi: false
 pygments: true
-url: http://barekas.net
+url: https://barekas.net
 
 title: bbarekas on the net
 author: Bill Barekas
