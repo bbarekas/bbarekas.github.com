@@ -74,13 +74,20 @@ body {
     width: 600px;
     float: right;
     background: #f8f8f8;
-    margin-right: 20px;
-    padding-left: 5px;
+    margin: 0 20px 10px 0;
+    padding: 0 10px 10px 10px;
+}
+
+.right_skills {
+    width: 600px;
+    float: right;
+    background: #f8f8f8;
+    margin: 0 20px 0 0;
 }
 
 .left {
     float: none; /* not needed, just for clarification */
-    padding-right: 20px;
+    padding-right: 10px;
     width: auto;
     overflow: hidden;
 }
@@ -107,6 +114,15 @@ body {
     color: #7b90b5;
     font-size: 14px;
     height: auto;
+    padding-top: 10px;
+}
+
+.skills {
+    text-align: right;
+    color: #7b90b5;
+    font-size: 14px;
+    height: auto;
+    padding-top: 5px;
 }
 
 .left_title {
@@ -118,12 +134,11 @@ body {
 }
 
 .position_header {
-    /*margin-bottom: 5px;*/
-    margin-left: -5px;
+    margin: 5px;
 }
 
 .position_title {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
     background: #fff;
 }
@@ -142,23 +157,37 @@ body {
 .company_logo img {
     height: 35px;
     padding-top: 5px;
-    padding-right: 10px;
 }
 
 .tasks {
     font-size: 13px;
+    margin-left: 5px;
 }
 
 ul.info {
-    padding-left:15px;
-    list-style-position:inside;
+    padding-left:10px;
+    list-style-position:outside;
 }
 
 ul.info li {
-	margin:0;
+	margin:5px 0 0 0;
 	padding:0;
 	float:left;
+    line-height: 18px;
 }
+
+ul.info-full {
+    padding-left:20px;
+    list-style-position:outside;
+}
+
+ul.info-full li {
+	margin:5px 0 0 0;
+	padding:0;
+	float:left;
+    line-height: 18px;
+}
+
 
 ul.no-bullet {
     list-style-type: none;
@@ -173,6 +202,14 @@ h1  {
 	color:#1b4491;
     font-weight: normal;
 }
+
+h3  {
+	font-size:20px;
+    line-height:24px;
+	color:#49679f;
+    font-weight: normal;
+}
+
 
 img.portrait {
     float: right;
@@ -209,12 +246,12 @@ img.portrait {
 
 .self ul li.ad {
 	background-image:url(../images/icn-ad.gif);
-    width: 254px;
+    width: 284px;
 }
 
 .self ul li.mail {
 	background-image:url(../images/icn-mail.gif);
-    width: 130px;
+    width: 140px;
 }
 
 .self ul li.tel {
@@ -224,7 +261,7 @@ img.portrait {
 
 .self ul li.web {
 	background-image:url(../images/icn-web.gif);
-    width: 110px;
+    width: 120px;
 }
 
 .self ul li.linkedin {
